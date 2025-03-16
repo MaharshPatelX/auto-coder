@@ -48,8 +48,8 @@ pip install -r requirements.txt
 
 3. Create a `.env` file with your API keys:
 ```
-MODEL_NAME=claude-3-5-sonnet-20240620
-ANTHROPIC_API_KEY=your_api_key_here
+MODEL_NAME=deepseek-r1-distill-qwen-32b
+GROQ_API_KEY=your_api_key_here
 TAVILY_API_KEY=your_tavily_api_key_here
 ```
 
