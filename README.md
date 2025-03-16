@@ -30,7 +30,7 @@ The system uses a hierarchical team approach with specialized agents:
 ### Prerequisites
 
 - Python 3.9+
-- Anthropic API key (for Claude access)
+- Groq API key (for Claude access)
 - Tavily API key (for web search capabilities)
 
 ### Installation
