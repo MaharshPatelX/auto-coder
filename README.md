@@ -93,7 +93,7 @@ The system can generate a wide variety of projects:
 ## 🔧 System Components
 
 - **LangGraph**: Powers the agent coordination framework
-- **Claude 3.5 Sonnet**: Provides the reasoning capabilities
+- **deepseek r1 distill qwen 32b**: Provides the reasoning capabilities
 - **Python REPL**: Executes and tests generated code
 - **File System Access**: Organizes project structure
 - **Code Quality Tools**: Ensures adherence to best practices
