@@ -37,8 +37,8 @@ The system uses a hierarchical team approach with specialized agents:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-coding-system.git
-cd ai-coding-system
+git clone https://github.com/MaharshPatelX/auto-coder.git
+cd auto-coder
 ```
 
 2. Install dependencies:
